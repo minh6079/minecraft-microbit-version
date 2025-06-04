@@ -1,5 +1,5 @@
 
-> Open this page at [https://github.com/minh6079/minecraft-microbit-version]
+> Open this page at https://github.com/minh6079/minecraft-microbit-version
 
 ## Use as Extension
 
